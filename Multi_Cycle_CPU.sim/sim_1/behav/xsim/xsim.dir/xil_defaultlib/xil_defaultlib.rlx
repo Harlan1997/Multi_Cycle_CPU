@@ -1,0 +1,21 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sim_1/imports/new/minisys_sim.v,1591406163,verilog,,,,minisys_sim,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/Execute32.v,1591421441,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/Idecode32.v,,Executs32,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/Idecode32.v,1591404693,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/Ifetc32.v,,Idecode32,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/Ifetc32.v,1591438765,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/clkx32.v,,Ifetc32,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/clkx32.v,1591422735,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/control32.v,,clkx32,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/control32.v,1591430560,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/dmemory32.v,,control32,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/dmemory32.v,1591474075,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/ioread.v,,dmemory32,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/ioread.v,1590779687,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/leds.v,,ioread,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/leds.v,1590769203,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/memorio.v,,leds,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/memorio.v,1591427846,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/minisys.v,,memorio,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/minisys.v,1591474157,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/switchs.v,,minisys,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/switchs.v,1591424848,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sim_1/imports/new/minisys_sim.v,,switchs,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/ip/RAM/sim/RAM.v,1591429510,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/ip/prgrom/sim/prgrom.v,,RAM,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk/cpuclk.v,1591428366,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/imports/CPU/Execute32.v,,cpuclk,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk/cpuclk_clk_wiz.v,1591428365,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk/cpuclk.v,,cpuclk_clk_wiz,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/ip/prgrom/sim/prgrom.v,1591426142,verilog,,C:/Users/lm709/Multi_Cycle_CPU/Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk/cpuclk_clk_wiz.v,,prgrom,,,../../../../Multi_Cycle_CPU.srcs/sources_1/ip/cpuclk,,,,,
